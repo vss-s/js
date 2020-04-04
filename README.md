@@ -1,4 +1,4 @@
-# Webpack starter kit...
+# Webpack starter kit
 
 [Живая страница](https://luxplanjay.github.io/webpack-starter-kit/) после деплоя
 через `npm run deploy`.

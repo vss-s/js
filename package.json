@@ -19,7 +19,7 @@
     "bugs": {
         "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
     },
-    "homepage": "https://github.com/WerHawer/goit-js-fe-25",
+    "homepage": "https://github.com/WerHawer/goit-js-fe-25/module-12",
     "devDependencies": {
         "@babel/core": "^7.6.4",
         "@babel/plugin-proposal-class-properties": "^7.5.5",
@@ -49,13 +49,9 @@
         "webpackbar": "^4.0.0"
     },
     "dependencies": {
-        "axios": "^0.19.1",
-        "basiclightbox": "^5.0.2",
         "core-js": "^3.3.4",
         "handlebars": "^4.5.3",
-        "infinite-scroll": "^3.0.6",
-        "jquery": "^3.4.1",
-        "lodash.throttle": "^4.1.1",
+        "lodash.debounce": "^4.0.8",
         "pnotify": "^4.0.0"
     }
 }
